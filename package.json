@@ -1,6 +1,6 @@
 {
   "name": "monorepo-msr-poc",
-  "version": "0.1.0-dev.0",
+  "version": "0.1.0-dev.1",
   "description": "Monorepo poc to run multi semantic releases with Northscaler scripts",
   "main": "index.js",
   "scripts": {
