@@ -1,0 +1,22 @@
+{
+  "name": "monorepo-msr-poc",
+  "version": "0.1.0-dev.0",
+  "description": "Monorepo poc to run multi semantic releases with Northscaler scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davikawasaki/monorepo-msr-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davikawasaki/monorepo-msr-poc/issues"
+  },
+  "homepage": "https://github.com/davikawasaki/monorepo-msr-poc#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}

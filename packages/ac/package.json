@@ -1,0 +1,30 @@
+{
+  "name": "ac",
+  "version": "0.1.0-dev.0",
+  "description": "> TODO: description",
+  "author": "Davi Kawasaki <davishinjik@gmail.com>",
+  "homepage": "https://github.com/davikawasaki/monorepo-msr-poc/tree/master/packages/ac#readme",
+  "license": "ISC",
+  "main": "lib/ac.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davikawasaki/monorepo-msr-poc.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/davikawasaki/monorepo-msr-poc/issues"
+  },
+  "dependencies": {
+    "ucl": "^0.1.0-dev.0",
+    "ul": "^0.1.0-dev.0"
+  }
+}
