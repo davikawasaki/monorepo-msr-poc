@@ -18,5 +18,8 @@
   "homepage": "https://github.com/davikawasaki/monorepo-msr-poc#readme",
   "devDependencies": {
     "lerna": "^3.22.1"
+  },
+  "dependencies": {
+    "semantic-release": "17.3.8"
   }
 }
